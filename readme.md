@@ -1,6 +1,6 @@
 # Foxel Generator
 This project generates the png assets and metadata for a collection of nfts. It then pushes that data to IPFS.
-This is how the original batch of foxels was generated. This project is similar in intent to (Hashlips Art Engine)[https://github.com/HashLips/hashlips_art_engine] but Hashlips was missing some core functionality so we had to build our own.
+This is how the original batch of foxels was generated. This project is similar in intent to [Hashlips Art Engine](https://github.com/HashLips/hashlips_art_engine) but Hashlips was missing some core functionality so we had to build our own.
 
 ### Getting Started
 Start by updating the config files with your own Infura IPFS node credentials.
@@ -15,6 +15,5 @@ Here is the breakdown:
 |Head|Body|Ears|Eyes|Mouth|Neck|Nose|Paws|Tail|Sex|Dame DNA  |Sire DNA  |     Unused                       |
 |----|----|----|----|-----|----|----|----|----|---|----------|----------|----------------------------------|
 |0   |d   |  5 |  3 |  e  | a  |  3 |  6 |  0 |  2|0e095062c0|c7352b87b8|9a40187841bfc30efb2fe990d27fc78fa5|
-|----|----|----|----|-----|----|----|----|----|---|----------|----------|----------------------------------|
 
 
