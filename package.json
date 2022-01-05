@@ -1,0 +1,17 @@
+{
+  "name": "foxel.generator",
+  "version": "1.0.0",
+  "description": "generates foxels",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "escottalexander",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "ipfs-http-client": "^55.0.0",
+    "jimp": "^0.16.1",
+    "uuid": "^8.3.2"
+  }
+}

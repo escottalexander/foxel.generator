@@ -1,0 +1,6 @@
+{
+    "quantityToGenerate":3000,
+    "outputDirectory":"output/Genesis/",
+    "infuraIPFSKey":"XXXXXXXXXXXXXXXXX",
+    "infuraIPFSSecret":"XXXXXXXXXXXXXXXXX"
+}

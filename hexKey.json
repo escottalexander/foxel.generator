@@ -1,0 +1,719 @@
+{
+    "head": {
+        "0": {
+            "name": "Normal",
+            "layer": 3,
+            "imagePath": "Head_0",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 100
+        }
+    },
+    "body": {
+        "0": {
+            "name": "Normal",
+            "layer": 1,
+            "imagePath": "Body_0",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 100
+        },
+        "1": {
+            "name": "Spiky",
+            "layer": 1,
+            "imagePath": "Body_1",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 20
+        },
+        "2": {
+            "name": "Lumpy",
+            "layer": 1,
+            "imagePath": "Body_2",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 20
+        },
+        "3": {
+            "name": "Fat",
+            "layer": 1,
+            "imagePath": "Body_3",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 20
+        }
+
+    },
+    "ears": {
+        "0": {
+            "name": "Fox",
+            "layer": 1,
+            "imagePath": "Ears_0",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 100
+        },
+        "1": {
+            "name": "Bear",
+            "layer": 1,
+            "imagePath": "Ears_1",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 25
+        },
+        "2": {
+            "name": "Bunny",
+            "layer": 1,
+            "imagePath": "Ears_2",
+            "changeHue": false,
+            "affinity": "light",
+            "rarity": 35
+        },
+        "3": {
+            "name": "Antenna",
+            "layer": 1,
+            "imagePath": "Ears_3",
+            "changeHue": false,
+            "affinity": "tech",
+            "rarity": 15
+        },
+        "4": {
+            "name": "Broccoli",
+            "layer": 1,
+            "imagePath": "Ears_4",
+            "changeHue": false,
+            "affinity": "plant",
+            "rarity": 15
+        },
+        "5": {
+            "name": "Horn",
+            "layer": 1,
+            "imagePath": "Ears_5",
+            "changeHue": false,
+            "affinity": "rock",
+            "rarity": 45
+        },
+        "6": {
+            "name": "Mushroom",
+            "layer": 1,
+            "imagePath": "Ears_6",
+            "changeHue": true,
+            "affinity": "plant",
+            "rarity": 40
+        },
+        "7": {
+            "name": "Volcano",
+            "layer": 1,
+            "imagePath": "Ears_7",
+            "changeHue": false,
+            "affinity": "fire",
+            "rarity": 40
+        },
+        "8": {
+            "name": "Hole",
+            "layer": 4,
+            "imagePath": "Ears_8",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 15
+        },
+        "9": {
+            "name": "Long Fox",
+            "layer": 1,
+            "imagePath": "Ears_9",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 75
+        },
+        "10": {
+            "name": "Floppy Fox",
+            "layer": 1,
+            "imagePath": "Ears_10",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 55
+        },
+        "11": {
+            "name": "Moth",
+            "layer": 1,
+            "imagePath": "Ears_11",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 3
+        }
+    },
+    "eyes": {
+        "0": {
+            "name": "Blank",
+            "layer": 4,
+            "imagePath": "Eyes_0",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 100
+        },
+        "1": {
+            "name": "Monicle",
+            "layer": 4,
+            "imagePath": "Eyes_1",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 35
+        },
+        "2": {
+            "name": "Happy",
+            "layer": 4,
+            "imagePath": "Eyes_2",
+            "changeHue": false,
+            "affinity": "light",
+            "rarity": 80
+        },
+        "3": {
+            "name": "Shades",
+            "layer": 4,
+            "imagePath": "Eyes_3",
+            "changeHue": false,
+            "affinity": "dark",
+            "rarity": 15
+        },
+        "4": {
+            "name": "Puppy",
+            "layer": 4,
+            "imagePath": "Eyes_4",
+            "changeHue": false,
+            "affinity": "light",
+            "rarity": 30
+        },
+        "5": {
+            "name": "Closed",
+            "layer": 4,
+            "imagePath": "Eyes_5",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 45
+        },
+        "6": {
+            "name": "Hole",
+            "layer": 4,
+            "imagePath": "Eyes_6",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 35
+        },
+        "7": {
+            "name": "Sleepy",
+            "layer": 4,
+            "imagePath": "Eyes_7",
+            "changeHue": false,
+            "affinity": "dark",
+            "rarity": 50
+        },
+        "8": {
+            "name": "Laser",
+            "layer": 4,
+            "imagePath": "Eyes_8",
+            "changeHue": false,
+            "affinity": "tech",
+            "rarity": 35
+        },
+        "9": {
+            "name": "Glasses",
+            "layer": 4,
+            "imagePath": "Eyes_9",
+            "changeHue": false,
+            "affinity": "tech",
+            "rarity": 35
+        },
+        "10": {
+            "name": "Fish",
+            "layer": 4,
+            "imagePath": "Eyes_10",
+            "changeHue": true,
+            "affinity": "neutral",
+            "rarity": 55
+        },
+        "11": {
+            "name": "Owl",
+            "layer": 4,
+            "imagePath": "Eyes_11",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 35
+        },
+        "12": {
+            "name": "Squint",
+            "layer": 4,
+            "imagePath": "Eyes_12",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 70
+        }
+    },
+    "mouth": {
+        "0": {
+            "name": "Slight Grin",
+            "layer": 4,
+            "imagePath": "Mouth_0",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 100
+        },
+        "1": {
+            "name": "Holey",
+            "layer": 4,
+            "imagePath": "Mouth_1",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 30
+        },
+        "2": {
+            "name": "Vampire",
+            "layer": 4,
+            "imagePath": "Mouth_2",
+            "changeHue": false,
+            "affinity": "dark",
+            "rarity": 20
+        },
+        "3": {
+            "name": "Kissy",
+            "layer": 4,
+            "imagePath": "Mouth_3",
+            "changeHue": false,
+            "affinity": "light",
+            "rarity": 25
+        },
+        "4": {
+            "name": "Crooked Teeth",
+            "layer": 4,
+            "imagePath": "Mouth_4",
+            "changeHue": false,
+            "affinity": "rock",
+            "rarity": 30
+        },
+        "5": {
+            "name": "Angry",
+            "layer": 4,
+            "imagePath": "Mouth_5",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 60
+        },
+        "6": {
+            "name": "Key Hole",
+            "layer": 4,
+            "imagePath": "Mouth_6",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 20
+        },
+        "7": {
+            "name": "Marine",
+            "layer": 4,
+            "imagePath": "Mouth_7",
+            "changeHue": false,
+            "affinity": "water",
+            "rarity": 30
+        },
+        "8": {
+            "name": "Underbite",
+            "layer": 4,
+            "imagePath": "Mouth_8",
+            "changeHue": false,
+            "affinity": "rock",
+            "rarity": 70
+        },
+        "9": {
+            "name": "Smile",
+            "layer": 4,
+            "imagePath": "Mouth_9",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 40
+        },
+        "10": {
+            "name": "Worried",
+            "layer": 4,
+            "imagePath": "Mouth_10",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 10
+        },
+        "11": {
+            "name": "Frown",
+            "layer": 4,
+            "imagePath": "Mouth_11",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 20
+        }
+    },
+    "neck": {
+        "0": {
+            "name": "White Tuft",
+            "layer": 1,
+            "imagePath": "Neck_0",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 50
+        },
+        "1": {
+            "name": "Spike",
+            "layer": 1,
+            "imagePath": "Neck_1",
+            "changeHue": false,
+            "affinity": "rock",
+            "rarity": 40
+        },
+        "2": {
+            "name": "Cloud",
+            "layer": 1,
+            "imagePath": "Neck_2",
+            "changeHue": false,
+            "affinity": "dark",
+            "rarity": 55
+        },
+        "3": {
+            "name": "Snakes",
+            "layer": 1,
+            "imagePath": "Neck_3",
+            "changeHue": false,
+            "affinity": "dark",
+            "rarity": 15
+        },
+        "4": {
+            "name": "Starfish",
+            "layer": 1,
+            "imagePath": "Neck_4",
+            "changeHue": true,
+            "affinity": "water",
+            "rarity": 15
+        },
+        "5": {
+            "name": "Octopus",
+            "layer": 2,
+            "imagePath": "Neck_5",
+            "changeHue": true,
+            "affinity": "water",
+            "rarity": 15
+        },
+        "6": {
+            "name": "Bush Berries",
+            "layer": 1,
+            "imagePath": "Neck_6",
+            "changeHue": false,
+            "affinity": "plant",
+            "rarity": 20
+        },
+        "7": {
+            "name": "Messy",
+            "layer": 1,
+            "imagePath": "Neck_7",
+            "changeHue": false,
+            "affinity": "dark",
+            "rarity": 40
+        },
+        "8": {
+            "name": "Curls",
+            "layer": 1,
+            "imagePath": "Neck_8",
+            "changeHue": false,
+            "affinity": "light",
+            "rarity": 5
+        },
+        "9": {
+            "name": "Small Tuft",
+            "layer": 1,
+            "imagePath": "Neck_9",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 30
+        },
+        "10": {
+            "name": "Fins",
+            "layer": 1,
+            "imagePath": "Neck_10",
+            "changeHue": false,
+            "affinity": "water",
+            "rarity": 15
+        },
+        "11": {
+            "name": "Medium Tuft",
+            "layer": 1,
+            "imagePath": "Neck_11",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 80
+        }
+    },
+    "nose": {
+        "0": {
+            "name": "Normal",
+            "layer": 5,
+            "imagePath": "Nose_0",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 70
+        },
+        "1": {
+            "name": "Nostrils",
+            "layer": 5,
+            "imagePath": "Nose_1",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 30
+        },
+        "2": {
+            "name": "Clown",
+            "layer": 5,
+            "imagePath": "Nose_2",
+            "changeHue": false,
+            "affinity": "light",
+            "rarity": 30
+        },
+        "3": {
+            "name": "Drill",
+            "layer": 5,
+            "imagePath": "Nose_3",
+            "changeHue": false,
+            "affinity": "tech",
+            "rarity": 20
+        },
+        "4": {
+            "name": "Mosquito",
+            "layer": 5,
+            "imagePath": "Nose_4",
+            "changeHue": false,
+            "affinity": "dark",
+            "rarity": 20
+        },
+        "5": {
+            "name": "Bull Ring",
+            "layer": 5,
+            "imagePath": "Nose_5",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 30
+        },
+        "6": {
+            "name": "Beak",
+            "layer": 5,
+            "imagePath": "Nose_6",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 20
+        },
+        "7": {
+            "name": "Bone",
+            "layer": 5,
+            "imagePath": "Nose_7",
+            "changeHue": false,
+            "affinity": "rock",
+            "rarity": 30
+        },
+        "8": {
+            "name": "Horns",
+            "layer": 5,
+            "imagePath": "Nose_8",
+            "changeHue": false,
+            "affinity": "rock",
+            "rarity": 20
+        },
+        "9": {
+            "name": "Small Nostrils",
+            "layer": 5,
+            "imagePath": "Nose_9",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 50
+        }
+    },
+    "paws": {
+        "0": {
+            "name": "Playful",
+            "layer": 2,
+            "imagePath": "Paws_0",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 70
+        },
+        "1": {
+            "name": "Beast",
+            "layer": 2,
+            "imagePath": "Paws_1",
+            "changeHue": false,
+            "affinity": "dark",
+            "rarity": 35
+        },
+        "2": {
+            "name": "Talon",
+            "layer": 2,
+            "imagePath": "Paws_2",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 20
+        },
+        "3": {
+            "name": "Amphibian",
+            "layer": 2,
+            "imagePath": "Paws_3",
+            "changeHue": true,
+            "affinity": "water",
+            "rarity": 40
+        },
+        "4": {
+            "name": "Elephant",
+            "layer": 2,
+            "imagePath": "Paws_4",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 30
+        },
+        "5": {
+            "name": "Hoove",
+            "layer": 2,
+            "imagePath": "Paws_5",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 25
+        },
+        "6": {
+            "name": "Insect",
+            "layer": 2,
+            "imagePath": "Paws_6",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 10
+        },
+        "7": {
+            "name": "Wheels",
+            "layer": 2,
+            "imagePath": "Paws_7",
+            "changeHue": false,
+            "affinity": "tech",
+            "rarity": 15
+        },
+        "8": {
+            "name": "Silver",
+            "layer": 2,
+            "imagePath": "Paws_8",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 20
+        },
+        "9": {
+            "name": "Dark",
+            "layer": 2,
+            "imagePath": "Paws_9",
+            "changeHue": false,
+            "affinity": "dark",
+            "rarity": 60
+        }
+    },
+    "tail": {
+        "0": {
+            "name": "Fox",
+            "layer": 0,
+            "imagePath": "Tail_0",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 100
+        },
+        "1": {
+            "name": "Mushroom",
+            "layer": 0,
+            "imagePath": "Tail_1",
+            "changeHue": true,
+            "affinity": "plant",
+            "rarity": 20
+        },
+        "2": {
+            "name": "Dragon",
+            "layer": 0,
+            "imagePath": "Tail_2",
+            "changeHue": false,
+            "affinity": "fire",
+            "rarity": 5
+        },
+        "3": {
+            "name": "Cotton",
+            "layer": 0,
+            "imagePath": "Tail_3",
+            "changeHue": false,
+            "affinity": "light",
+            "rarity": 35
+        },
+        "4": {
+            "name": "Shell",
+            "layer": 2,
+            "imagePath": "Tail_4",
+            "changeHue": true,
+            "affinity": "water",
+            "rarity": 20
+        },
+        "5": {
+            "name": "Peacock",
+            "layer": 0,
+            "imagePath": "Tail_5",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 1
+        },
+        "6": {
+            "name": "Antenna",
+            "layer": 0,
+            "imagePath": "Tail_6",
+            "changeHue": false,
+            "affinity": "tech",
+            "rarity": 40
+        },
+        "7": {
+            "name": "Fish",
+            "layer": 0,
+            "imagePath": "Tail_7",
+            "changeHue": false,
+            "affinity": "water",
+            "rarity": 30
+        },
+        "8": {
+            "name": "Lion",
+            "layer": 0,
+            "imagePath": "Tail_8",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 30
+        },
+        "9": {
+            "name": "Rat",
+            "layer": 0,
+            "imagePath": "Tail_9",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 25
+        },
+        "10": {
+            "name": "Three",
+            "layer": 0,
+            "imagePath": "Tail_10",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 10
+        },
+        "11": {
+            "name": "Five",
+            "layer": 0,
+            "imagePath": "Tail_11",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 40
+        },
+        "12": {
+            "name": "Nine",
+            "layer": 0,
+            "imagePath": "Tail_12",
+            "changeHue": false,
+            "affinity": "neutral",
+            "rarity": 1
+        }
+    }
+
+
+}
